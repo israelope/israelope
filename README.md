@@ -1,54 +1,53 @@
-<!-- ⚡ Advanced Dark-Theme GitHub Profile README for Oloyede Israel (israelope) -->
+<!-- Advanced GitHub Profile README for Oloyede Israel (israelope) -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hey+there,+I'm+Oloyede+Israel;🚀+Frontend+Developer;💡+Creative+Technologist;✨+Web+Experience+Builder" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">Building interactive, accessible, and beautiful web experiences.</h3>
+<h1 align="center">👋 Hey there, I'm <a href="https://anointed1.netlify.app" target="_blank">Oloyede Israel</a></h1>
+<h3 align="center">🚀 Frontend Developer | Creative Technologist | Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=israelope&label=Profile%20Views&color=7B68EE&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/israelope?label=Followers&color=9370DB&style=flat-square" alt="followers" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Frontend+Developer;Creative+UI%2FUX+Engineer;Building+Interactive+Web+Experiences;Always+Learning+Something+New!&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=israelope&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/israelope?label=Followers&style=flat-square&color=58a6ff" alt="followers" />
 </p>
 
 ---
 
 ## 🧠 About Me  
+I’m a **Frontend Developer** driven by a passion for **beautiful, performant, and user-centered design**.  
+I love transforming abstract ideas into sleek, accessible digital experiences.
 
-I’m a **Frontend Developer** passionate about crafting immersive digital experiences.  
-I specialize in building **modern, performant, and aesthetic interfaces** that bring ideas to life.
-
-- 🚀 Currently exploring **Next.js**, **Framer Motion**, and **GSAP**  
-- 🎨 Focused on **UI animations**, **micro-interactions**, and **web accessibility**  
-- 🧩 Love building **scalable component systems** with **React & Tailwind CSS**  
-- 🌍 Based on the web — collaborating, learning, and creating  
+- 🌱 Currently exploring **Next.js**, **Framer Motion**, and **GSAP**  
+- 🧩 Focused on **accessibility**, **performance**, and **micro-interactions**  
+- 💬 Ask me about **React**, **Tailwind CSS**, or **building interactive UIs**  
+- 🎨 Fun fact: I love **minimalist design** & **smooth UI transitions**
 
 ---
 
-## ⚙️ Tech Stack  
+## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,python,vscode,git,vercel&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,python,vscode,git,vercel&theme=light" alt="Tech Stack Icons">
 </p>
 
 ---
 
 ## 🌟 Featured Projects  
 
-| 🚀 Project | 🧩 Description | 🔗 Link |
-|-------------|----------------|---------|
-| **Nexus Furniture** | A modern furniture store UI emphasizing clean layouts and smooth UX. | [🔗 Visit Project](https://nexus-furniture-mrnx.vercel.app/) |
-| **Roger Bookings** | A responsive booking app with fluid transitions and crisp interface. | [🔗 Visit Project](https://rogerbookings.netlify.app/) |
-| **Personal Portfolio** | My personal space on the web — built for speed, clarity, and aesthetics. | [🔗 Visit Site](https://anointed1.netlify.app) |
+| Project | Description | Link |
+|----------|--------------|------|
+| 🛋 **Nexus Furniture** | A modern, responsive furniture store UI built with precision and design finesse. | 🔗 [View Project](https://nexus-furniture-mrnx.vercel.app/) |
+| 📘 **Roger Bookings** | An elegant and intuitive booking platform with interactive design elements. | 🔗 [View Project](https://rogerbookings.netlify.app/) |
+| 💼 **Personal Portfolio** | My digital hub showcasing projects, skills, and creative work. | 🔗 [Visit Site](https://anointed1.netlify.app) |
 
 ---
 
-## 🌱 Currently Exploring  
-
-💡 **Next.js App Router** for server-side magic  
-🎞 **Framer Motion** + **GSAP** for expressive web animations  
-🎨 **Design Systems & Atomic Architecture**  
-⚡ **Optimizing performance and accessibility**
+## 🧩 Currently Exploring  
+- ⚙️ **Next.js App Router** for full-stack capabilities  
+- ✨ **Framer Motion + GSAP** for creative web animations  
+- 🧱 **Component-driven design systems**  
+- 🧠 Advanced **state management** & **React performance optimization**
 
 ---
 
@@ -56,52 +55,50 @@ I specialize in building **modern, performant, and aesthetic interfaces** that b
 
 <p align="center">
   <a href="https://anointed1.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=About.me&logoColor=58A6FF&labelColor=0D1117" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:israeloloyede002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/israelope" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/israelope" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter Badge" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israelope&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=9370DB" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=israelope&theme=tokyonight&hide_border=true&background=0D1117&ring=9370DB&fire=7B68EE&currStreakNum=fff" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=israelope&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=israelope&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelope&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelope&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements & Highlights  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=israelope&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=israelope&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🎯 Beyond Code  
-
-✨ Designing **for emotion and clarity** — every pixel tells a story.  
-🎧 Fueled by **Lo-Fi beats** and **UI sketches**.  
-🌱 Continuously learning, iterating, and building with **curiosity**.  
-💬 Belief: “A great interface doesn’t just look good — it *feels* good.”
+✨ I believe in **designing for empathy** — making interfaces that feel alive, inclusive, and delightful.  
+🧩 I enjoy **learning from open source**, experimenting with **motion design**, and exploring **AI-assisted creativity**.  
+🎧 When not coding, I’m either **listening to Lo-Fi beats**, **sketching UI concepts**, or **mentoring new devs**.
 
 ---
 
-<h3 align="center">⭐ Building the web, one pixel at a time ⭐</h3>
+<h3 align="center">⭐ "Building the web, one pixel at a time." ⭐</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" alt="wave gif" />
