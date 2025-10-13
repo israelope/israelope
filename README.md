@@ -1,7 +1,7 @@
 <!-- Advanced GitHub Profile README for Oloyede Israel (israelope) -->
 
 <h1 align="center">👋 Hey there, I'm <a href="https://anointed1.netlify.app" target="_blank">Oloyede Israel</a></h1>
-<h3 align="center">🚀 Frontend Developer | Creative Technologist | Web Enthusiast</h3>
+<h3 align="center">🚀 Frontend Developer. | Creative Technologist | Web Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Frontend+Developer;Creative+UI%2FUX+Engineer;Building+Interactive+Web+Experiences;Always+Learning+Something+New!&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG">
