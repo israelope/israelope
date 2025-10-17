@@ -25,7 +25,7 @@ I love transforming abstract ideas into sleek, accessible digital experiences.
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack.  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,python,vscode,git,vercel&theme=light" alt="Tech Stack Icons">
