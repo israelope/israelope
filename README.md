@@ -18,7 +18,7 @@
 I’m a **Frontend Developer** driven by a passion for **beautiful, performant, and user-centered design**. 
 I love transforming abstract ideas into sleek, accessible digital experiences.
 
-- 🌱 Currently exploring **Next.js**, **Framer Motion**, and **GSAP**  
+- 🌱 Currently exploring **Next.js**, **MongoDB**, **Framer Motion**, and **GSAP**  
 - 🧩 Focused on **accessibility**, **performance**, and **micro-interactions**  
 - 💬 Ask me about **React**, **Tailwind CSS**, or **building interactive UIs**  
 - 🎨 Fun fact: I love **minimalist design** & **smooth UI transitions**
