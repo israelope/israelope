@@ -39,7 +39,7 @@ I love transforming abstract ideas into sleek, accessible digital experiences.
 |----------|--------------|------|
 | 🛋 **Nexus Furniture** | A modern, responsive furniture store UI built with precision and design finesse. | 🔗 [View Project](https://nexus-furniture-mrnx.vercel.app/) |
 | 📘 **Roger Bookings** | An elegant and intuitive booking platform with interactive design elements. | 🔗 [View Project](https://rogerbookings.netlify.app/) |
-| 💼 **Personal Portfolio** | My digital hub showcasing projects, skills, and creative work. | 🔗 [Visit Site](https://anointed1.netlify.app) |
+| 💼 **Personal Portfolio** | My digital hub showcasing projects, skills, and creative work.  | 🔗 [Visit Site](https://anointed1.netlify.app) |
 
 ---
 
