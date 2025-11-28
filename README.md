@@ -33,7 +33,7 @@ I love transforming abstract ideas into sleek, accessible digital experiences.
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Featured Projects   
 
 | Project | Description | Link |
 |----------|--------------|------|
