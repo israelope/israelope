@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me   
 I’m a **Frontend Developer** driven by a passion for **beautiful, performant, and user-centered design**. 
 I love transforming abstract ideas into sleek, accessible digital experiences.
 
