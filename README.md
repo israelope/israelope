@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=israelope&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/israelope?label=Followers&style=flat-square&color=58a6ff" alt="followers" />
+  <img src="https://img.shields.io/github/followers/israelope?label=Followers&style=flat-square&color=58a6ff" alt="followers"  />
 </p>
 
 ---
