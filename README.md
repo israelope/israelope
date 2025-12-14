@@ -1,6 +1,6 @@
 <!-- Advanced GitHub Profile README for Oloyede Israel (israelope) -->
 
-<h1 align="center">👋 Hey there, I'm <a href="https://anointed1.netlify.app" target="_blank">Oloyede Israel</a></h1>
+<h1 align="center">👋 Hey there, I'm <a href="https://anointed1.vercel.app" target="_blank">Oloyede Israel</a></h1>
 <h3 align="center">🚀 Fullstack Developer | Creative Technologist  | Web3 Enthusiast | Blockchain Developer </h3>
 
 <p align="center">
