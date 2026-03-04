@@ -6,6 +6,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Frontend+Developer;Creative+UI%2FUX+Engineer;Building+Interactive+Web+Experiences;Always+Learning+Something+New!&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG">
 </p> 
+<p align="center">
+  <a href="https://github.com/israelope/israelope/raw/main/Oloyede_Israel_Frontend_Developer_CV.pdf">
+    <img src="https://img.shields.io/badge/Download_Resume-58a6ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 <p align="center" >
   <img src="https://komarev.com/ghpvc/?username=israelope&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
@@ -55,9 +60,6 @@ I love transforming abstract ideas into sleek, accessible digital experiences.
 ##  Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/israelope/israelope/raw/main/Oloyede_Israel_Frontend_Developer_CV.pdf">
-    <img src="https://img.shields.io/badge/Download_Resume-58a6ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
   <a href="https://anointed1.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A66C2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
