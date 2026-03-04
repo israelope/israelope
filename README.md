@@ -14,18 +14,18 @@
 
 ---
 
-## 🧠 About Me   
+## About Me   
 I’m a **Frontend Developer** driven by a passion for **beautiful, performant, and user-centered design**. 
 I love transforming abstract ideas into sleek, accessible digital experiences.
 
-- 🌱 Currently exploring **Next.js**, **MongoDB**, **Framer Motion**, and **GSAP**  
-- 🧩 Focused on **accessibility**, **performance**, and **micro-interactions**  
-- 💬 Ask me about **React**, **Tailwind CSS**, or **building interactive UIs**  
-- 🎨 Fun fact: I love **minimalist design** & **smooth UI transitions**
+- Currently exploring **Next.js**, **MongoDB**, **Framer Motion**, and **GSAP**  
+- Focused on **accessibility**, **performance**, and **micro-interactions**  
+- Ask me about **React**, **Tailwind CSS**, or **building interactive UIs**  
+- Fun fact: I love **minimalist design** & **smooth UI transitions**
 
 ---
 
-## 🛠 Tech Stack.  
+##  Tech Stack.  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,python,vscode,git,vercel&theme=light" alt="Tech Stack Icons">
@@ -33,26 +33,26 @@ I love transforming abstract ideas into sleek, accessible digital experiences.
 
 ---
 
-## 🌟 Featured Projects   
+## Featured Projects
 
 | Project | Description | Link |
-|----------|--------------|------|
-| 🛋 **Nexus Furniture** | A modern, responsive furniture store UI built with precision and design finesse. | 🔗 [View Project](https://nexus-furniture-mrnx.vercel.app/) |
-| 📘 **Roger Bookings** | An elegant and intuitive booking platform with interactive design elements. | 🔗 [View Project](https://rogerbookings.netlify.app/) |
-| 💼 **Personal Portfolio** | My digital hub showcasing projects, skills, and creative work.  | 🔗 [Visit Site](https://anointed1.netlify.app) |
-|  **A church Website** | A website showcasing what the church is all about with updates on recents sermons and pictures  | 🔗 [Visit Site](https://rcfui.org) |
+|--------|-------------|------|
+| **Nexus Furniture** | A modern, responsive e-commerce UI built with precision and design finesse. | [View Project](https://nexus-furniture-mrnx.vercel.app/) |
+| **Roger Bookings** | An elegant booking platform with a clean, interactive interface. | [View Project](https://rogerbookings.netlify.app/) |
+| **Personal Portfolio** | My digital hub — projects, skills, and creative work. | [Visit Site](https://anointed1.netlify.app) |
+| **RCF UI Church Website** | A church platform with sermon updates, events, and gallery. | [Visit Site](https://rcfui.org) |
 
 ---
 
-## 🧩 Currently Exploring  
-- ⚙️ **Next.js App Router** for full-stack capabilities  
-- ✨ **Framer Motion + GSAP** for creative web animations  
-- 🧱 **Component-driven design systems**  
-- 🧠 Advanced **state management** & **React performance optimization**
+##  Currently Exploring  
+-  **Next.js App Router** for full-stack capabilities  
+-  **Framer Motion + GSAP** for creative web animations  
+-  **Component-driven design systems**  
+-  Advanced **state management** & **React performance optimization**
 
 ---
 
-## 🌍 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
   <a href="https://github.com/israelope/israelope/raw/main/Oloyede_Israel_Frontend_Developer_CV.pdf">
@@ -74,7 +74,7 @@ I love transforming abstract ideas into sleek, accessible digital experiences.
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=israelope&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
@@ -87,7 +87,7 @@ I love transforming abstract ideas into sleek, accessible digital experiences.
 
 ---
 
-## 🏆 Achievements & Highlights  
+##  Achievements & Highlights  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=israelope&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
@@ -95,10 +95,10 @@ I love transforming abstract ideas into sleek, accessible digital experiences.
 
 ---
 
-## 🎯 Beyond Code  
-✨ I believe in **designing for empathy** — making interfaces that feel alive, inclusive, and delightful.  
-🧩 I enjoy **learning from open source**, experimenting with **motion design**, and exploring **AI-assisted creativity**.  
-🎧 When not coding, I’m either **listening to Lo-Fi beats**, **sketching UI concepts**, or **mentoring new devs**.
+##  Beyond Code  
+ I believe in **designing for empathy** — making interfaces that feel alive, inclusive, and delightful.  
+ I enjoy **learning from open source**, experimenting with **motion design**, and exploring **AI-assisted creativity**.  
+ When not coding, I’m either **listening to Lo-Fi beats**, **sketching UI concepts**, or **mentoring new devs**.
 
 ---
 
